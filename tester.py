@@ -3,8 +3,7 @@ import math
 # 반지름 설정
 r = 5.0
 
-# 원의 둘레 계산
-c = 2 * math.pi * r
+# 반지름 출력
 print(f"c = {r}")
 
 # 원의 넓이 계산
